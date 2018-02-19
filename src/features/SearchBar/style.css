@@ -1,0 +1,25 @@
+.search_bar_container{
+    width: 100%;
+    display: inline-flex;
+}
+
+.user_ui{
+    width: 12%;
+    text-align: center;
+    margin-right: 30px;
+
+}
+
+.search_bar_item{
+    
+}
+
+.search_bar_component{
+    margin-top: 27px;
+    width: 86%;
+    float: right;
+}
+
+.margin_left{
+    margin-left: 20px;
+}

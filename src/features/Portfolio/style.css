@@ -1,0 +1,13 @@
+.portfolio_container{}
+.symbol_icon{
+    font-size: 23px;
+}
+
+.arrow_up{
+    color:green;
+    font-size: 20px;
+}
+.arrow_down{
+    color: red;
+    font-size: 20px;
+}
